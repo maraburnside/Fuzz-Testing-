@@ -1,4 +1,4 @@
-# 🔍 Mutation-Based JPEG Fuzzer
+# Mutation-Based JPEG Fuzzer
 ### CAP 6135 – Cyber Lab | Mara Burnside | UCF | May 2026
 
 ---
